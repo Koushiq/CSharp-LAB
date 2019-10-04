@@ -1,0 +1,11 @@
+C:\Users\Koushiq\source\repos\BiscuitEntity\BiscuitSystem\bin\Debug\netcoreapp3.0\BiscuitSystem.exe
+C:\Users\Koushiq\source\repos\BiscuitEntity\BiscuitSystem\bin\Debug\netcoreapp3.0\BiscuitSystem.deps.json
+C:\Users\Koushiq\source\repos\BiscuitEntity\BiscuitSystem\bin\Debug\netcoreapp3.0\BiscuitSystem.runtimeconfig.json
+C:\Users\Koushiq\source\repos\BiscuitEntity\BiscuitSystem\bin\Debug\netcoreapp3.0\BiscuitSystem.runtimeconfig.dev.json
+C:\Users\Koushiq\source\repos\BiscuitEntity\BiscuitSystem\bin\Debug\netcoreapp3.0\BiscuitSystem.dll
+C:\Users\Koushiq\source\repos\BiscuitEntity\BiscuitSystem\bin\Debug\netcoreapp3.0\BiscuitSystem.pdb
+C:\Users\Koushiq\source\repos\BiscuitEntity\BiscuitSystem\obj\Debug\netcoreapp3.0\BiscuitSystem.csprojAssemblyReference.cache
+C:\Users\Koushiq\source\repos\BiscuitEntity\BiscuitSystem\obj\Debug\netcoreapp3.0\BiscuitSystem.AssemblyInfoInputs.cache
+C:\Users\Koushiq\source\repos\BiscuitEntity\BiscuitSystem\obj\Debug\netcoreapp3.0\BiscuitSystem.AssemblyInfo.cs
+C:\Users\Koushiq\source\repos\BiscuitEntity\BiscuitSystem\obj\Debug\netcoreapp3.0\BiscuitSystem.dll
+C:\Users\Koushiq\source\repos\BiscuitEntity\BiscuitSystem\obj\Debug\netcoreapp3.0\BiscuitSystem.pdb
