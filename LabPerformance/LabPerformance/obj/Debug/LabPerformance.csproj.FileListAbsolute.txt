@@ -1,0 +1,6 @@
+C:\Users\Koushiq\source\repos\LabPerformance\LabPerformance\bin\Debug\LabPerformance.exe.config
+C:\Users\Koushiq\source\repos\LabPerformance\LabPerformance\bin\Debug\LabPerformance.exe
+C:\Users\Koushiq\source\repos\LabPerformance\LabPerformance\bin\Debug\LabPerformance.pdb
+C:\Users\Koushiq\source\repos\LabPerformance\LabPerformance\obj\Debug\LabPerformance.csprojAssemblyReference.cache
+C:\Users\Koushiq\source\repos\LabPerformance\LabPerformance\obj\Debug\LabPerformance.exe
+C:\Users\Koushiq\source\repos\LabPerformance\LabPerformance\obj\Debug\LabPerformance.pdb
