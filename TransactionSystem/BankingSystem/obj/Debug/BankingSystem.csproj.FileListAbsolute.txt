@@ -1,0 +1,6 @@
+C:\Users\Koushiq\source\repos\TransectionSystem\BankingSystem\obj\Debug\BankingSystem.csprojAssemblyReference.cache
+C:\Users\Koushiq\source\repos\TransectionSystem\BankingSystem\bin\Debug\BankingSystem.exe.config
+C:\Users\Koushiq\source\repos\TransectionSystem\BankingSystem\bin\Debug\BankingSystem.exe
+C:\Users\Koushiq\source\repos\TransectionSystem\BankingSystem\bin\Debug\BankingSystem.pdb
+C:\Users\Koushiq\source\repos\TransectionSystem\BankingSystem\obj\Debug\BankingSystem.exe
+C:\Users\Koushiq\source\repos\TransectionSystem\BankingSystem\obj\Debug\BankingSystem.pdb
