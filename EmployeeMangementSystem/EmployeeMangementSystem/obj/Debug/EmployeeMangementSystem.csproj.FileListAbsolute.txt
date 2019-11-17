@@ -1,0 +1,6 @@
+D:\New folder\EmployeeMangementSystem\EmployeeMangementSystem\bin\Debug\EmployeeMangementSystem.exe.config
+D:\New folder\EmployeeMangementSystem\EmployeeMangementSystem\bin\Debug\EmployeeMangementSystem.exe
+D:\New folder\EmployeeMangementSystem\EmployeeMangementSystem\bin\Debug\EmployeeMangementSystem.pdb
+D:\New folder\EmployeeMangementSystem\EmployeeMangementSystem\obj\Debug\EmployeeMangementSystem.csprojResolveAssemblyReference.cache
+D:\New folder\EmployeeMangementSystem\EmployeeMangementSystem\obj\Debug\EmployeeMangementSystem.exe
+D:\New folder\EmployeeMangementSystem\EmployeeMangementSystem\obj\Debug\EmployeeMangementSystem.pdb
