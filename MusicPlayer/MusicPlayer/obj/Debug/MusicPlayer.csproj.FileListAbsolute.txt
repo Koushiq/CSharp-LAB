@@ -1,0 +1,6 @@
+C:\Users\Koushiq\source\repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\Koushiq\source\repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\Koushiq\source\repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\Koushiq\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+C:\Users\Koushiq\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\Koushiq\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
